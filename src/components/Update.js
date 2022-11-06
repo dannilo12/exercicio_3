@@ -5,7 +5,10 @@ function Update() {
     
     return(
         <div>
-             <Logar texto=" Caracteres"/>     
+             <Logar texto=" Caracteres"
+                nome="Dannilo"
+                senha="123456"/>        
+             
         </div>
     )
 }

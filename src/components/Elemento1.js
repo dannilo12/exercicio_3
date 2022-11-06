@@ -9,7 +9,7 @@ function Elemento1(props) {
                 <img src="logo192.png"></img>
                 <nav>
                     <ul>
-                        <li><a href="#">Usuários</a></li>
+                        <li><a href="#" >Usuários</a></li>
                         
                     </ul>
                 </nav>
